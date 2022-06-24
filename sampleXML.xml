@@ -1,0 +1,17 @@
+<DailyRoutine>
+	<Morning>
+		<WakeUp time = "07:00"></WakeUp>
+		<Exercise/>
+		<Breakfast time = "08:00" coffee = "with milk" toast = "with jam"></Breakfast>
+	</Morning>
+	<Afternoon>
+		<Lunch time = "12:30" sandwich = "with tuna" coffee = "with milk"></Lunch>
+		<Mitting time = "15:00"></Mitting>
+	</Afternoon>
+	<Evening>
+		<Jogging time = "18:00"></Jogging>
+		<Dinner> salat </Dinner>
+		<Walk/>
+	</Evening>
+	<BedtimeRoutine/>
+</DailyRoutine>
